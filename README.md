@@ -1,4 +1,7 @@
 # EE102_SystemsandSignals
 
-## UCLA Electricla Engineering Systems and Signals
+## UCLA Electrical Engineering Systems and Signals
 ### With Jonathano Kao
+
+Class Highlights:
+Blackboxes, phase shifts, graph shifting, Fourtier Transforms, System Modeling
